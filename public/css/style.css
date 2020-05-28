@@ -1,0 +1,27 @@
+.card-body {
+    height: 260px;
+    text-align: center;
+    text-transform: uppercase;
+    font-size: 15px;
+}
+
+.card {
+    margin-top: 10px;
+    margin-bottom: 10px;
+}
+
+.timer-body {
+    height: auto;   
+}
+
+.card-title #timer { 
+    font-size: 30px;
+}
+
+.show {
+    display: block;
+}
+
+.hide {
+    display: none;
+}
